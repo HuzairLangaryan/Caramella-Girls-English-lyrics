@@ -1,0 +1,18 @@
+body{
+    background-color: palevioletred;
+    color: black;
+    font-family: fantasy;
+}
+#title{
+    font-size: 50px;
+    margin: 0%;
+    color: black;
+    text-align: center;
+}
+#lyrics{
+    color: black;
+    text-align: center;
+    margin: 0%;
+    font-size: 20px;
+    font-family: fantasy;
+}
